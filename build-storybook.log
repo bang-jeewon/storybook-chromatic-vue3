@@ -1,0 +1,64 @@
+
+> storybook-chromatic-vue3@0.1.0 build-storybook
+> storybook build --output-dir /var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K
+
+@storybook/cli v7.6.17
+
+info => Cleaning outputDir: /var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K
+info => Loading presets
+info => Building manager..
+info => Manager built (85 ms)
+info => Building preview..
+info => Copying static files: /Users/bangjiwon/jeewon/storybook-chromatic-vue3/node_modules/@storybook/manager/static at /var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K/sb-common-assets
+vite v5.1.5 building for production...
+transforming...
+✓ 537 modules transformed.
+rendering chunks...
+computing gzip size...
+../../../../var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K/assets/context-C0qIqeS4.png                      6.12 kB
+../../../../var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K/assets/styling-Bk6zjRzU.png                      7.24 kB
+../../../../var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K/iframe.html                                     12.75 kB │ gzip:   3.59 kB
+../../../../var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K/assets/docs---vsFbMi.png                        27.88 kB
+../../../../var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K/assets/share-DGA-UcQf.png                       40.77 kB
+../../../../var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K/assets/accessibility-W_h2acOZ.png               42.34 kB
+../../../../var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K/assets/figma-plugin-CH2hELiO.png                44.25 kB
+../../../../var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K/assets/theming-D6WJLNoW.png                     44.37 kB
+../../../../var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K/assets/testing-cbzR9l9r.png                     49.31 kB
+../../../../var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K/assets/addon-library-BWUCAmyN.png              467.37 kB
+../../../../var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K/assets/Header-BjLH3naM.css                       0.51 kB │ gzip:   0.30 kB
+../../../../var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K/assets/Button-BfyGbg8N.css                       0.52 kB │ gzip:   0.29 kB
+../../../../var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K/assets/Page-B9ntr4df.css                         0.93 kB │ gzip:   0.40 kB
+../../../../var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K/assets/preview-CIwosuWp.js                       0.15 kB │ gzip:   0.15 kB
+../../../../var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K/assets/_commonjsHelpers-Cpj98o6Y.js              0.24 kB │ gzip:   0.18 kB
+../../../../var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K/assets/WithTooltip-V3YHNWJZ-CrB2NviZ.js          0.31 kB │ gzip:   0.20 kB
+../../../../var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K/assets/syntaxhighlighter-B5GMVT5T-DHOTiNHd.js    0.31 kB │ gzip:   0.23 kB
+../../../../var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K/assets/index-BM_nH4kq.js                         0.36 kB │ gzip:   0.23 kB
+../../../../var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K/assets/index-BUtPCg7u.js                         0.49 kB │ gzip:   0.31 kB
+../../../../var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K/assets/preview-B_0crF9I.js                       0.64 kB │ gzip:   0.45 kB
+../../../../var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K/assets/preview-BEAI19LB.js                       0.64 kB │ gzip:   0.37 kB
+../../../../var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K/assets/index-DrFu-skq.js                         0.77 kB │ gzip:   0.47 kB
+../../../../var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K/assets/preview-Cv3rAi2i.js                       0.86 kB │ gzip:   0.55 kB
+../../../../var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K/assets/Header.stories-x9eCB8vi.js                0.92 kB │ gzip:   0.47 kB
+../../../../var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K/assets/Button-Bssrd2Gg.js                        1.34 kB │ gzip:   0.71 kB
+../../../../var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K/assets/Button.stories-9fgBKSX3.js                1.48 kB │ gzip:   0.56 kB
+../../../../var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K/assets/Header-3rKMb0hw.js                        1.64 kB │ gzip:   0.92 kB
+../../../../var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K/assets/entry-preview-D9Qb0GUT.js                 1.86 kB │ gzip:   1.03 kB
+../../../../var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K/assets/DocsRenderer-NNNQARDV-D36PiSUs.js         1.88 kB │ gzip:   0.92 kB
+../../../../var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K/assets/index-Bw8VTzHM.js                         2.59 kB │ gzip:   1.26 kB
+../../../../var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K/assets/preview-BcxrGG1y.js                       3.19 kB │ gzip:   1.37 kB
+../../../../var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K/assets/iframe-CoeDUIL2.js                        4.64 kB │ gzip:   1.81 kB
+../../../../var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K/assets/preview-D8VCGkL0.js                       5.23 kB │ gzip:   2.41 kB
+../../../../var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K/assets/preview-BAz7FMXc.js                       7.62 kB │ gzip:   1.56 kB
+../../../../var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K/assets/preview-Db4Idchh.js                       8.11 kB │ gzip:   3.09 kB
+../../../../var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K/assets/Configure-C50SJ9jE.js                    26.63 kB │ gzip:  11.56 kB
+../../../../var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K/assets/Color-6VNJS4EI-B0UfIdt4.js               30.92 kB │ gzip:  11.69 kB
+../../../../var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K/assets/preview-BCp7Wgbt.js                      72.16 kB │ gzip:  24.46 kB
+../../../../var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K/assets/index-B8rCvqCN.js                        78.27 kB │ gzip:  23.49 kB
+../../../../var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K/assets/entry-preview-docs-Dvdxc9vD.js           78.49 kB │ gzip:  29.33 kB
+../../../../var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K/assets/vue.esm-bundler-bU1kAjXC.js             155.77 kB │ gzip:  58.36 kB
+../../../../var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K/assets/Page.stories-M88StDZC.js                564.36 kB │ gzip: 150.26 kB
+../../../../var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K/assets/formatter-SWP5E3XI-DHUEUnAS.js          601.49 kB │ gzip: 186.18 kB
+../../../../var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K/assets/index-4XssLRhh.js                       680.43 kB │ gzip: 221.47 kB
+✓ built in 3.76s
+info => Preview built (3.95 s)
+info => Output directory: /var/folders/xt/4d2zwk4n7j9by700c6y1rdh40000gn/T/chromatic--13601-BA7iES1Hwd9K
